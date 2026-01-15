@@ -1,0 +1,15 @@
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Modèles lourds
+*.pth
+models/
+trc2k25_dataset/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
